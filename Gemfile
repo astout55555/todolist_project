@@ -6,3 +6,4 @@ gem 'minitest-reporters', '~> 1.1'
 gem 'pry-byebug', '~> 3.9.0'
 gem 'stamp', '~>0.6.0'
 gem 'rake'
+gemspec

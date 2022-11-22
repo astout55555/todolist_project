@@ -1,3 +1,8 @@
+PATH
+  remote: .
+  specs:
+    todolist_project (1.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -31,6 +36,7 @@ DEPENDENCIES
   pry-byebug (~> 3.9.0)
   rake
   stamp (~> 0.6.0)
+  todolist_project!
 
 RUBY VERSION
    ruby 2.6.0p0
